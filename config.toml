@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'es-la'
+title = '༺Miscelánea Eben-Ezer༻'
+theme = 'ananke'
